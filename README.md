@@ -1,2 +1,3 @@
-# blender-science
- 
+# Physics Visualization with Blender
+
+(Work in progress)
