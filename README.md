@@ -16,16 +16,5 @@ https://user-images.githubusercontent.com/11053654/204775269-ceda5e81-a897-40d0-
 
 - [OpenCV](https://opencv.org/)
 
-### BlendArMocap
+### OpticalFlow
 
-Rigged 3D models are in my another project: https://github.com/araobp/blender-3d/tree/main/rigged_models
-
-Reference:
-
-- [BlendArMocap](https://github.com/cgtinker/BlendArMocap)
-- [MediaPipe](https://google.github.io/mediapipe/)
-
-Starting Blender as admin in case of MacOS:
-```
-$ sudo /Applications/Blender.app/Contents/MacOS/Blender
-```
