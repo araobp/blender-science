@@ -27,5 +27,5 @@ Reference:
 
 Starting Blender as admin in case of MacOS:
 ```
-$ sudo ./Blender.app/Contents/MacOS/Blender
+$ sudo /Applications/Blender.app/Contents/MacOS/Blender
 ```
