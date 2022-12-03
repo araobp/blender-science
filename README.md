@@ -15,6 +15,3 @@ https://user-images.githubusercontent.com/11053654/204775269-ceda5e81-a897-40d0-
 ## Working with OpenCV
 
 - [OpenCV](https://opencv.org/)
-
-### OpticalFlow
-
