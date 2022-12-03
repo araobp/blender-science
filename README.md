@@ -24,3 +24,8 @@ Reference:
 
 - [BlendArMocap](https://github.com/cgtinker/BlendArMocap)
 - [MediaPipe](https://google.github.io/mediapipe/)
+
+Starting Blender as admin in case of MacOS:
+```
+$ sudo ./Blender.app/Contents/MacOS/Blender
+```
