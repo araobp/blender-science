@@ -12,6 +12,8 @@ https://user-images.githubusercontent.com/11053654/204775232-e3e3159e-f5e0-441f-
 
 https://user-images.githubusercontent.com/11053654/204775269-ceda5e81-a897-40d0-a5b8-0ab718c499b4.mp4
 
-## Working with OpenCV
+## Utility
 
-- [OpenCV](https://opencv.org/)
+### Digital timer
+
+https://user-images.githubusercontent.com/11053654/207276813-fa64358f-e990-455d-bcb9-a943714190fe.mp4
