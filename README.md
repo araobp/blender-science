@@ -2,6 +2,8 @@
 
 (Work in progress)
 
+## Visualization
+
 - [Physics](./Physics)
 - [Physical simulations](./Simulation)
 
