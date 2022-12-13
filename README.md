@@ -3,6 +3,7 @@
 (Work in progress)
 
 - [Physics](./Physics)
+- [Physical simulations](./Simulation)
 
 ## Utility
 
