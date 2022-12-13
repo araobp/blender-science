@@ -9,7 +9,7 @@
 
 ## Utility
 
-(Click on the menu items to expand or collapse)
+(Click on the menu items to expand)
 
 <details><summary>Digital timer</summary>
 
