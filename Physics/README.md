@@ -9,3 +9,10 @@ https://user-images.githubusercontent.com/11053654/204775232-e3e3159e-f5e0-441f-
 ### Parabolic motion
 
 https://user-images.githubusercontent.com/11053654/204775269-ceda5e81-a897-40d0-a5b8-0ab718c499b4.mp4
+
+### Pendulum snake
+
+References:
+- [Oscillation of a Simple Pendulum](https://www.acs.psu.edu/drussell/Demos/Pendulum/Pendulum.html)
+- [Pendulum Wave Calculator](https://cs.stanford.edu/people/paulliu/webapps/pendulumcalc.html)
+- [My pendulim video on YouTube](https://youtu.be/3iQGoEvQWaM)
