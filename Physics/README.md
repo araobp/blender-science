@@ -17,3 +17,11 @@ This is a pendulum snake animation made with Blender. Each animation frame was a
 - [Oscillation of a Simple Pendulum](https://www.acs.psu.edu/drussell/Demos/Pendulum/Pendulum.html)
 - [Pendulum Wave Calculator](https://cs.stanford.edu/people/paulliu/webapps/pendulumcalc.html)
 - [My pendulim video on YouTube](https://youtu.be/3iQGoEvQWaM)
+
+#### Configuration 1
+
+Every pendulum starts with the same initial rotation of y-axis.
+
+#### Configuration 2
+
+Every pendulum starts with the same initial position of x-axis and z-axis.
