@@ -22,6 +22,8 @@ This is a pendulum snake animation made with Blender. Each animation frame was a
 
 Every pendulum starts with the same initial rotation of y-axis.
 
+=> [Video on YouTube](https://youtu.be/VYyuJVpb2LU)
+
 #### Configuration 2
 
 Every pendulum starts with the same initial position of x-axis and z-axis.
