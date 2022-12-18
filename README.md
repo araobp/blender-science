@@ -2,6 +2,8 @@
 
 (Work in progress)
 
+[![Watch the video](https://img.youtube.com/vi/VYyuJVpb2LU/default.jpg)](https://youtu.be/VYyuJVpb2LU)
+
 ## Visualization
 
 - [Physics](./Physics)
