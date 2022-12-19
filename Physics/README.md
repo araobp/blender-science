@@ -27,3 +27,5 @@ Every pendulum starts with the same initial rotation of y-axis.
 #### Configuration 2
 
 Every pendulum starts with the same initial position of x-axis.
+
+=> [Video on YouTube](https://youtu.be/fLw5PB_CiDo)
