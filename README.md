@@ -8,7 +8,6 @@
 
 - [Physics](./Physics)
 - [Physical simulations](./Simulation)
-- [Optics](./Optics)
 
 ## Utility
 
