@@ -11,11 +11,9 @@
 
 ## Utility
 
-### Seven-Segment Digital Timer
-
 (Click on the menu items to expand)
 
-<details><summary>Digital timer</summary>
+<details><summary>Seven-Segment Digital Timer</summary>
 
 [Seven segments](Util/seven_segment.blend)
 
@@ -25,8 +23,10 @@ https://user-images.githubusercontent.com/11053654/207276813-fa64358f-e990-455d-
   
  </details>
 
-### Simple Timer
+<details><summary>Simple Digital Timer</summary>
 
 This is a simple timer with a Python script.
 
 <img src="Util/timer.jpg" width=600>
+
+</details>
