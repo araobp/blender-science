@@ -14,8 +14,6 @@ https://github.com/araobp/blender-science/assets/11053654/80fdb071-705d-47c0-bb9
 
 ### Parabolic motion
 
-https://github.com/araobp/blender-science/assets/11053654/87fc952f-f170-4827-94f2-08205095f19d
-
 https://user-images.githubusercontent.com/11053654/204775269-ceda5e81-a897-40d0-a5b8-0ab718c499b4.mp4
 
 ### Pendulum snake
