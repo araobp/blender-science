@@ -8,6 +8,7 @@ Demo on YouTube
 
 - [Physics](./Physics)
 - [Physical simulations](./Simulation)
+- [Mathematics](./Mathematics)
 
 ## Utility
 
