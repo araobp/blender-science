@@ -6,6 +6,6 @@ This project has to do with [my other edge AI project](https://github.com/araobp
 
 DCT Type-II is used for image compression such as JPEG. Refer to [the DCT page on Wikipedia](https://en.wikipedia.org/wiki/Discrete_cosine_transform).
 
-It is very interesting to visualize inverse DCT to understand how DCT works.
+I want to visualize inverse DCT with 3DCG animation to understand how DCT works.
 
 <img src="draft.jpg" width=500>
