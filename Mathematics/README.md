@@ -9,3 +9,5 @@ DCT Type-II is used for image compression such as JPEG. Refer to [the DCT page o
 I want to visualize inverse DCT with 3DCG animation to understand how DCT works.
 
 <img src="draft.jpg" width=500>
+
+=> [Video on YouTube](https://youtu.be/OWIU_BMA92s)
