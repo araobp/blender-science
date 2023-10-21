@@ -1,6 +1,6 @@
 # Mathematics
 
-## Inverse DCT visualization (Work in progress)
+## Inverse DCT visualization
 
 This project has to do with [my other edge AI project](https://github.com/araobp/edge-ai/blob/main/RockPaperScissors.md). In the edge AI project, I used DCT Type-II to extract image features of low frequencies from 8x8 heat map image. 
 
