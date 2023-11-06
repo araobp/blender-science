@@ -10,4 +10,6 @@ I want to visualize inverse DCT with 3DCG animation to understand how DCT works.
 
 <img src="draft.jpg" width=500>
 
+=> [Blender File](idct.blend.zip)
+
 => [Video on YouTube](https://youtu.be/OWIU_BMA92s)
