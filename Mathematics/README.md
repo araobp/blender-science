@@ -1,0 +1,4 @@
+# Mathematics
+
+- [DCT](./dct)
+- 
