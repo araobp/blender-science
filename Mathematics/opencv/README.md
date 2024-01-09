@@ -6,7 +6,7 @@ It is necessary for multi-screen projection in a room to remap screen images.
 
 => [Notebook](remap.ipynb)
 
-### For left wall
+### For the left wall
 
 Remapped image
 
@@ -16,7 +16,7 @@ Original image
 
 <img src="images/Camera1.png" width=800>
 
-## For right wall
+## For the right wall
 
 Remapped image
 
@@ -24,4 +24,10 @@ Remapped image
 
 Original image
 
-<img src="images/Camera2.png" width=800>
+<img src="images/Camera3.png" width=800>
+
+## For the center wall
+
+Remapping is unnecessary
+
+<img src="images/Camera1.png" width=800>
