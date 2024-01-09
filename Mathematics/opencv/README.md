@@ -30,4 +30,4 @@ Original image
 
 Remapping is unnecessary
 
-<img src="images/Camera1.png" width=800>
+<img src="images/Camera2.png" width=800>
