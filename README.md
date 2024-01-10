@@ -38,7 +38,7 @@ This is a simple timer with a Python script.
 
 [Blender file](Util/timer2.blend)
 
-- [3 minutes at 30FPS](TIMER_3MINUTES_30FPS_0000-5400.mp4)
-- [90 seconds at 60FPS](TIMER_90SECONDS_60FPS_0000-5400.mp4)
+- [3 minutes at 30FPS](Util/TIMER_3MINUTES_30FPS_0000-5400.mp4)
+- [90 seconds at 60FPS](Util/TIMER_90SECONDS_60FPS_0000-5400.mp4)
 
 </details>
